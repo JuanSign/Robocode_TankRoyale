@@ -1,0 +1,7 @@
+# generated game-related files
+*.properties
+
+# generated directories for C# bots
+bin
+obj
+
